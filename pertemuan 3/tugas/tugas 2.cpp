@@ -92,7 +92,7 @@ int main() {
     getline(cin, JumlahUang);
     pelajar.pinjamuang(JumlahUang);
 
-    cout << "\nMasukkan jumlah uang yang ingin dikembalikan : ";
+    cout << "\nMasukkan jumlah uang yang akan dikembalikan : ";
     getline(cin, JumlahUang);
     pelajar.kembalikanuang(JumlahUang);
 
